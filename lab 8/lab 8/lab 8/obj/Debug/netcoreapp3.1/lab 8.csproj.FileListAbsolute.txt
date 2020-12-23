@@ -1,0 +1,13 @@
+C:\Users\EL_VADRO\Desktop\dut\c#\lab 8\lab 8\lab 8\bin\Debug\netcoreapp3.1\lab 8.exe
+C:\Users\EL_VADRO\Desktop\dut\c#\lab 8\lab 8\lab 8\bin\Debug\netcoreapp3.1\lab 8.deps.json
+C:\Users\EL_VADRO\Desktop\dut\c#\lab 8\lab 8\lab 8\bin\Debug\netcoreapp3.1\lab 8.runtimeconfig.json
+C:\Users\EL_VADRO\Desktop\dut\c#\lab 8\lab 8\lab 8\bin\Debug\netcoreapp3.1\lab 8.runtimeconfig.dev.json
+C:\Users\EL_VADRO\Desktop\dut\c#\lab 8\lab 8\lab 8\bin\Debug\netcoreapp3.1\lab 8.dll
+C:\Users\EL_VADRO\Desktop\dut\c#\lab 8\lab 8\lab 8\bin\Debug\netcoreapp3.1\lab 8.pdb
+C:\Users\EL_VADRO\Desktop\dut\c#\lab 8\lab 8\lab 8\obj\Debug\netcoreapp3.1\lab 8.csprojAssemblyReference.cache
+C:\Users\EL_VADRO\Desktop\dut\c#\lab 8\lab 8\lab 8\obj\Debug\netcoreapp3.1\lab 8.AssemblyInfoInputs.cache
+C:\Users\EL_VADRO\Desktop\dut\c#\lab 8\lab 8\lab 8\obj\Debug\netcoreapp3.1\lab 8.AssemblyInfo.cs
+C:\Users\EL_VADRO\Desktop\dut\c#\lab 8\lab 8\lab 8\obj\Debug\netcoreapp3.1\lab 8.csproj.CoreCompileInputs.cache
+C:\Users\EL_VADRO\Desktop\dut\c#\lab 8\lab 8\lab 8\obj\Debug\netcoreapp3.1\lab 8.dll
+C:\Users\EL_VADRO\Desktop\dut\c#\lab 8\lab 8\lab 8\obj\Debug\netcoreapp3.1\lab 8.pdb
+C:\Users\EL_VADRO\Desktop\dut\c#\lab 8\lab 8\lab 8\obj\Debug\netcoreapp3.1\lab 8.genruntimeconfig.cache
