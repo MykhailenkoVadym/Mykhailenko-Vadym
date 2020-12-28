@@ -1,0 +1,12 @@
+C:\Users\EL_VADRO\Desktop\dut\c#\sr\sr\sr\bin\Debug\netcoreapp3.1\sr.exe
+C:\Users\EL_VADRO\Desktop\dut\c#\sr\sr\sr\bin\Debug\netcoreapp3.1\sr.deps.json
+C:\Users\EL_VADRO\Desktop\dut\c#\sr\sr\sr\bin\Debug\netcoreapp3.1\sr.runtimeconfig.json
+C:\Users\EL_VADRO\Desktop\dut\c#\sr\sr\sr\bin\Debug\netcoreapp3.1\sr.runtimeconfig.dev.json
+C:\Users\EL_VADRO\Desktop\dut\c#\sr\sr\sr\bin\Debug\netcoreapp3.1\sr.dll
+C:\Users\EL_VADRO\Desktop\dut\c#\sr\sr\sr\bin\Debug\netcoreapp3.1\sr.pdb
+C:\Users\EL_VADRO\Desktop\dut\c#\sr\sr\sr\obj\Debug\netcoreapp3.1\sr.AssemblyInfoInputs.cache
+C:\Users\EL_VADRO\Desktop\dut\c#\sr\sr\sr\obj\Debug\netcoreapp3.1\sr.AssemblyInfo.cs
+C:\Users\EL_VADRO\Desktop\dut\c#\sr\sr\sr\obj\Debug\netcoreapp3.1\sr.csproj.CoreCompileInputs.cache
+C:\Users\EL_VADRO\Desktop\dut\c#\sr\sr\sr\obj\Debug\netcoreapp3.1\sr.dll
+C:\Users\EL_VADRO\Desktop\dut\c#\sr\sr\sr\obj\Debug\netcoreapp3.1\sr.pdb
+C:\Users\EL_VADRO\Desktop\dut\c#\sr\sr\sr\obj\Debug\netcoreapp3.1\sr.genruntimeconfig.cache
