@@ -1,0 +1,23 @@
+﻿<Window x:Class="lab7_mykhailenko.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab7_mykhailenko"
+        mc:Ignorable="d"
+        Title="Find file" Height="245.962" Width="548.217" ResizeMode="NoResize" Closing="Window_Closing">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="27*"/>
+            <ColumnDefinition Width="244*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="112.681,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="349" x:Name="mainPath" TextChanged="textChanged" Grid.Column="1"/>
+        <Label Content="Директорія для пошуку:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,24,0,0" RenderTransformOrigin="0.658,1.308" Width="151" Height="23" FontSize="11" Grid.ColumnSpan="2"/>
+        <Button Content="Відкрити" HorizontalAlignment="Left" Margin="378.681,174,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.542,0.15" IsEnabled="False" x:Name="openButton" Click="OpenButton_Click" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,156,0,0" TextWrapping="Wrap" VerticalAlignment="Top" x:Name="logTextBlock" FontWeight="Bold"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="112.681,107,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="349" x:Name="fileName" TextChanged="textChanged" Grid.Column="1"/>
+        <Label Content="Повна назва файлу:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,105,0,0" RenderTransformOrigin="0.658,1.308" Width="135" FontSize="11" Grid.ColumnSpan="2"/>
+        <Button Content="Пошук" HorizontalAlignment="Left" Margin="276.681,174,0,0" VerticalAlignment="Top" Width="75" Click="FindButton_Click" Grid.Column="1"/>
+        <Button Content="Обрати директорію" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="119" Margin="26,60,0,0" Click="Button_Click" Grid.ColumnSpan="2" Height="16" FontSize="10"/>
+    </Grid>
+</Window>

@@ -1,0 +1,27 @@
+﻿<Window x:Class="lab9_mykhailenko.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab9_mykhailenko"
+        mc:Ignorable="d"
+        Title="Caesar cipher" Height="292.273" Width="507.134" ResizeMode="NoResize">
+    <Canvas>
+        <Label Canvas.Left="22" Canvas.Top="6" FontSize="14" FontWeight="Bold">Здвиг:</Label>
+        <TextBox Width="60" Canvas.Left="80" Canvas.Top="14" x:Name="slideValue"></TextBox>
+
+        <StackPanel Canvas.Left="20" Canvas.Top="232" Orientation="Horizontal">
+            <RadioButton GroupName="Languages" Content="Розшифрування" Width="135" FontSize="14" FontWeight="Bold" />
+            <RadioButton x:Name="decryptRadio" GroupName="Languages" Content="Шифрування" IsChecked="True" RenderTransformOrigin="0.787,2.667" Width="146" FontSize="14" FontWeight="Bold" />
+        </StackPanel>
+        <RichTextBox RenderTransformOrigin="5.767,2.259" Canvas.Left="10" Canvas.Top="37" Height="190" Width="481">
+            <FlowDocument>
+                <Paragraph>
+                    <Run x:Name="textArea"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <Button Height="19" Width="94" Canvas.Left="355" Canvas.Top="233" Click="Button_Click">Відкрити файл</Button>
+        <Label Height="24" Canvas.Left="156" Canvas.Top="10" x:Name="TxtFile" Content="..."/>
+    </Canvas>
+</Window>

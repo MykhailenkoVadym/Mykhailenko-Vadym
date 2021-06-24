@@ -1,0 +1,15 @@
+﻿<Window x:Class="lab6_Mykhailenko.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab6_Mykhailenko"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="430.6" Width="887.382" ResizeMode="NoResize">
+    <Grid>
+        <Canvas Background="Transparent" MouseMove="Canvas_MouseMove" x:Name="mainRoot" RenderTransformOrigin="0.503,0.439">
+            <Button IsTabStop="False" Panel.ZIndex="10" Click="ButtonOK_Click" MouseEnter="ButtonOK_MouseEnter" x:Name="ButtonOK" Canvas.Left="373" Canvas.Top="272" Height="47" Width="140">OK</Button>
+            <Button Click="ButtonCancel_Click" x:Name="ButtonCancel" Canvas.Left="393" Canvas.Top="354" Height="26" Width="94">Cancel</Button>
+        </Canvas>
+    </Grid>
+</Window>

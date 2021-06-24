@@ -1,0 +1,15 @@
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 9\lab9\lab9_mykhailenko\bin\Debug\lab9_mykhailenko.exe.config
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 9\lab9\lab9_mykhailenko\bin\Debug\lab9_mykhailenko.exe
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 9\lab9\lab9_mykhailenko\bin\Debug\lab9_mykhailenko.pdb
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 9\lab9\lab9_mykhailenko\obj\Debug\lab9_mykhailenko.csproj.AssemblyReference.cache
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 9\lab9\lab9_mykhailenko\obj\Debug\MainWindow.g.cs
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 9\lab9\lab9_mykhailenko\obj\Debug\App.g.cs
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 9\lab9\lab9_mykhailenko\obj\Debug\lab9_mykhailenko_MarkupCompile.cache
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 9\lab9\lab9_mykhailenko\obj\Debug\lab9_mykhailenko_MarkupCompile.lref
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 9\lab9\lab9_mykhailenko\obj\Debug\MainWindow.baml
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 9\lab9\lab9_mykhailenko\obj\Debug\lab9_mykhailenko.g.resources
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 9\lab9\lab9_mykhailenko\obj\Debug\lab9_mykhailenko.Properties.Resources.resources
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 9\lab9\lab9_mykhailenko\obj\Debug\lab9_mykhailenko.csproj.GenerateResource.cache
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 9\lab9\lab9_mykhailenko\obj\Debug\lab9_mykhailenko.csproj.CoreCompileInputs.cache
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 9\lab9\lab9_mykhailenko\obj\Debug\lab9_mykhailenko.exe
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 9\lab9\lab9_mykhailenko\obj\Debug\lab9_mykhailenko.pdb

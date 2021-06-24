@@ -1,0 +1,7 @@
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 7\lab-7(two-sem)\lab7.1\lab7_mykhailenko\bin\Debug\lab7_mykhailenko.exe.config
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 7\lab-7(two-sem)\lab7.1\lab7_mykhailenko\bin\Debug\lab7_mykhailenko.exe
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 7\lab-7(two-sem)\lab7.1\lab7_mykhailenko\bin\Debug\lab7_mykhailenko.pdb
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 7\lab-7(two-sem)\lab7.1\lab7_mykhailenko\obj\Debug\lab7_mykhailenko.csproj.AssemblyReference.cache
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 7\lab-7(two-sem)\lab7.1\lab7_mykhailenko\obj\Debug\lab7_mykhailenko.csproj.CoreCompileInputs.cache
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 7\lab-7(two-sem)\lab7.1\lab7_mykhailenko\obj\Debug\lab7_mykhailenko.exe
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 7\lab-7(two-sem)\lab7.1\lab7_mykhailenko\obj\Debug\lab7_mykhailenko.pdb

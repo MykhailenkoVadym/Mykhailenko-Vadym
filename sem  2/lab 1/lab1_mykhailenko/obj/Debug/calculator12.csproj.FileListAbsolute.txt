@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\calculator12\bin\Debug\calculator12.exe.config
+C:\Users\Пользователь\source\repos\calculator12\bin\Debug\calculator12.exe
+C:\Users\Пользователь\source\repos\calculator12\bin\Debug\calculator12.pdb
+C:\Users\Пользователь\source\repos\calculator12\obj\Debug\calculator12.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\calculator12\obj\Debug\calculator12.Form1.resources
+C:\Users\Пользователь\source\repos\calculator12\obj\Debug\calculator12.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\calculator12\obj\Debug\calculator12.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\calculator12\obj\Debug\calculator12.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\calculator12\obj\Debug\calculator12.exe
+C:\Users\Пользователь\source\repos\calculator12\obj\Debug\calculator12.pdb

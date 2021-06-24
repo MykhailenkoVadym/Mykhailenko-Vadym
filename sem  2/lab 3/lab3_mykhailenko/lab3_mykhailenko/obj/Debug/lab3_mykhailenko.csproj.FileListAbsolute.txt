@@ -1,0 +1,10 @@
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 3\lab3_mykhailenko\lab3_mykhailenko\bin\Debug\lab3_mykhailenko.exe.config
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 3\lab3_mykhailenko\lab3_mykhailenko\bin\Debug\lab3_mykhailenko.exe
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 3\lab3_mykhailenko\lab3_mykhailenko\bin\Debug\lab3_mykhailenko.pdb
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 3\lab3_mykhailenko\lab3_mykhailenko\obj\Debug\lab3_mykhailenko.csproj.AssemblyReference.cache
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 3\lab3_mykhailenko\lab3_mykhailenko\obj\Debug\lab3_mykhailenko.Form1.resources
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 3\lab3_mykhailenko\lab3_mykhailenko\obj\Debug\lab3_mykhailenko.Properties.Resources.resources
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 3\lab3_mykhailenko\lab3_mykhailenko\obj\Debug\lab3_mykhailenko.csproj.GenerateResource.cache
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 3\lab3_mykhailenko\lab3_mykhailenko\obj\Debug\lab3_mykhailenko.csproj.CoreCompileInputs.cache
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 3\lab3_mykhailenko\lab3_mykhailenko\obj\Debug\lab3_mykhailenko.exe
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 3\lab3_mykhailenko\lab3_mykhailenko\obj\Debug\lab3_mykhailenko.pdb

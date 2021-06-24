@@ -1,0 +1,60 @@
+C:\Users\Пользователь\source\repos\calcul\bin\Debug\calcul.exe.config
+C:\Users\Пользователь\source\repos\calcul\bin\Debug\calcul.exe
+C:\Users\Пользователь\source\repos\calcul\bin\Debug\calcul.pdb
+C:\Users\Пользователь\source\repos\calcul\obj\Debug\calcul.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\calcul\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\source\repos\calcul\obj\Debug\App.g.cs
+C:\Users\Пользователь\source\repos\calcul\obj\Debug\calcul_MarkupCompile.cache
+C:\Users\Пользователь\source\repos\calcul\obj\Debug\calcul_MarkupCompile.lref
+C:\Users\Пользователь\source\repos\calcul\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\source\repos\calcul\obj\Debug\calcul.g.resources
+C:\Users\Пользователь\source\repos\calcul\obj\Debug\calcul.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\calcul\obj\Debug\calcul.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\calcul\obj\Debug\calcul.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\calcul\obj\Debug\calcul.exe
+C:\Users\Пользователь\source\repos\calcul\obj\Debug\calcul.pdb
+C:\Users\Пользователь\Desktop\calcul WPF\bin\Debug\calcul.exe.config
+C:\Users\Пользователь\Desktop\calcul WPF\bin\Debug\calcul.exe
+C:\Users\Пользователь\Desktop\calcul WPF\bin\Debug\calcul.pdb
+C:\Users\Пользователь\Desktop\calcul WPF\obj\Debug\calcul.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\calcul WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\calcul WPF\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\calcul WPF\obj\Debug\calcul_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\calcul WPF\obj\Debug\calcul_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\calcul WPF\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\Desktop\calcul WPF\obj\Debug\calcul.g.resources
+C:\Users\Пользователь\Desktop\calcul WPF\obj\Debug\calcul.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\calcul WPF\obj\Debug\calcul.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\calcul WPF\obj\Debug\calcul.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\calcul WPF\obj\Debug\calcul.exe
+C:\Users\Пользователь\Desktop\calcul WPF\obj\Debug\calcul.pdb
+C:\Users\Пользователь\Desktop\calcul lab 4 WPF Вдовіна ПД-22\bin\Debug\calcul.exe.config
+C:\Users\Пользователь\Desktop\calcul lab 4 WPF Вдовіна ПД-22\bin\Debug\calcul.exe
+C:\Users\Пользователь\Desktop\calcul lab 4 WPF Вдовіна ПД-22\bin\Debug\calcul.pdb
+C:\Users\Пользователь\Desktop\calcul lab 4 WPF Вдовіна ПД-22\obj\Debug\calcul.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\calcul lab 4 WPF Вдовіна ПД-22\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\calcul lab 4 WPF Вдовіна ПД-22\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\calcul lab 4 WPF Вдовіна ПД-22\obj\Debug\calcul_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\calcul lab 4 WPF Вдовіна ПД-22\obj\Debug\calcul_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\calcul lab 4 WPF Вдовіна ПД-22\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\Desktop\calcul lab 4 WPF Вдовіна ПД-22\obj\Debug\calcul.g.resources
+C:\Users\Пользователь\Desktop\calcul lab 4 WPF Вдовіна ПД-22\obj\Debug\calcul.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\calcul lab 4 WPF Вдовіна ПД-22\obj\Debug\calcul.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\calcul lab 4 WPF Вдовіна ПД-22\obj\Debug\calcul.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\calcul lab 4 WPF Вдовіна ПД-22\obj\Debug\calcul.exe
+C:\Users\Пользователь\Desktop\calcul lab 4 WPF Вдовіна ПД-22\obj\Debug\calcul.pdb
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 4\calcul lab 4 WPF Вдовіна ПД-22\bin\Debug\calcul.exe.config
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 4\calcul lab 4 WPF Вдовіна ПД-22\bin\Debug\calcul.exe
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 4\calcul lab 4 WPF Вдовіна ПД-22\bin\Debug\calcul.pdb
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 4\calcul lab 4 WPF Вдовіна ПД-22\obj\Debug\calcul.csproj.AssemblyReference.cache
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 4\calcul lab 4 WPF Вдовіна ПД-22\obj\Debug\MainWindow.g.cs
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 4\calcul lab 4 WPF Вдовіна ПД-22\obj\Debug\App.g.cs
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 4\calcul lab 4 WPF Вдовіна ПД-22\obj\Debug\calcul_MarkupCompile.cache
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 4\calcul lab 4 WPF Вдовіна ПД-22\obj\Debug\calcul_MarkupCompile.lref
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 4\calcul lab 4 WPF Вдовіна ПД-22\obj\Debug\MainWindow.baml
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 4\calcul lab 4 WPF Вдовіна ПД-22\obj\Debug\calcul.g.resources
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 4\calcul lab 4 WPF Вдовіна ПД-22\obj\Debug\calcul.Properties.Resources.resources
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 4\calcul lab 4 WPF Вдовіна ПД-22\obj\Debug\calcul.csproj.GenerateResource.cache
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 4\calcul lab 4 WPF Вдовіна ПД-22\obj\Debug\calcul.csproj.CoreCompileInputs.cache
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 4\calcul lab 4 WPF Вдовіна ПД-22\obj\Debug\calcul.exe
+C:\Users\EL_VADRO\Desktop\dut\2.2\c#\lab 4\calcul lab 4 WPF Вдовіна ПД-22\obj\Debug\calcul.pdb
